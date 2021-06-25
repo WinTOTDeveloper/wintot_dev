@@ -3,7 +3,7 @@
 "productName": "WinTOT1",
 "productVersion": "0.1",
 "dataUrl": "Prototype.data.unityweb",
-"wasmCodeUrl": "Prototype.wasm",
+"wasmCodeUrl": "Prototype.wasm.code.unityweb",
 "wasmFrameworkUrl": "Prototype.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
