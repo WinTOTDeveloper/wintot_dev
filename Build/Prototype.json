@@ -1,6 +1,6 @@
 {
 "companyName": "WinTOT",
-"productName": "WinTOT1",
+"productName": "Unrestricted Warfare",
 "productVersion": "0.1",
 "dataUrl": "Prototype.data.unityweb",
 "wasmCodeUrl": "Prototype.wasm.code.unityweb",
@@ -10,7 +10,7 @@
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
 "cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
+"developmentBuild": true,
 "multithreading": false,
 "unityVersion": "2019.4.18f1"
 }
